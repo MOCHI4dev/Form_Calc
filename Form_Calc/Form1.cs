@@ -287,4 +287,4 @@ namespace Form_Calc
             }
         }
     }
-}
+}// ここまでがForm1.csのコードです。
