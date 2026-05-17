@@ -1,0 +1,17 @@
+C:\Users\omochiisidiot\source\repos\Form_Calc\Form_Calc\bin\Release\net10.0-windows\Form_Calc.exe
+C:\Users\omochiisidiot\source\repos\Form_Calc\Form_Calc\bin\Release\net10.0-windows\Form_Calc.deps.json
+C:\Users\omochiisidiot\source\repos\Form_Calc\Form_Calc\bin\Release\net10.0-windows\Form_Calc.runtimeconfig.json
+C:\Users\omochiisidiot\source\repos\Form_Calc\Form_Calc\bin\Release\net10.0-windows\Form_Calc.dll
+C:\Users\omochiisidiot\source\repos\Form_Calc\Form_Calc\bin\Release\net10.0-windows\Form_Calc.pdb
+C:\Users\omochiisidiot\source\repos\Form_Calc\Form_Calc\obj\Release\net10.0-windows\Form_Calc.Form1.resources
+C:\Users\omochiisidiot\source\repos\Form_Calc\Form_Calc\obj\Release\net10.0-windows\Form_Calc.csproj.GenerateResource.cache
+C:\Users\omochiisidiot\source\repos\Form_Calc\Form_Calc\obj\Release\net10.0-windows\Form_Calc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omochiisidiot\source\repos\Form_Calc\Form_Calc\obj\Release\net10.0-windows\Form_Calc.AssemblyInfoInputs.cache
+C:\Users\omochiisidiot\source\repos\Form_Calc\Form_Calc\obj\Release\net10.0-windows\Form_Calc.AssemblyInfo.cs
+C:\Users\omochiisidiot\source\repos\Form_Calc\Form_Calc\obj\Release\net10.0-windows\Form_Calc.csproj.CoreCompileInputs.cache
+C:\Users\omochiisidiot\source\repos\Form_Calc\Form_Calc\obj\Release\net10.0-windows\Form_Calc.sourcelink.json
+C:\Users\omochiisidiot\source\repos\Form_Calc\Form_Calc\obj\Release\net10.0-windows\Form_Calc.dll
+C:\Users\omochiisidiot\source\repos\Form_Calc\Form_Calc\obj\Release\net10.0-windows\refint\Form_Calc.dll
+C:\Users\omochiisidiot\source\repos\Form_Calc\Form_Calc\obj\Release\net10.0-windows\Form_Calc.pdb
+C:\Users\omochiisidiot\source\repos\Form_Calc\Form_Calc\obj\Release\net10.0-windows\Form_Calc.genruntimeconfig.cache
+C:\Users\omochiisidiot\source\repos\Form_Calc\Form_Calc\obj\Release\net10.0-windows\ref\Form_Calc.dll
